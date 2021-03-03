@@ -1,0 +1,13 @@
+#David Cheesman
+#Fun Fact: I am 5'11"
+#This is one of the first projects from Codecademy
+
+print("""
+DDDD   CCC
+D   D C   C
+D   D C
+D   D C
+D   D C
+D   D C   C
+DDDD   CCC
+""")
